@@ -12,6 +12,6 @@ List of prviate/friends only resources:
 <br>
 
 List of public resources: 
-- <a href="/#/PriveAPI">PriveAPI</a>
+- <a href="/#/priveapi">PriveAPI</a>
 <br>
 <br>
