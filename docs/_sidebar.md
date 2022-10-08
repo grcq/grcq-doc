@@ -1,6 +1,10 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
+* [Amper](amper.md)
+> [Getting Started](amper.md?id=getting-started)
+> [Webserver Configuration](amper.md?id=webserver-configuration)
+> [Creating SSL Certificates](amper.md?id=creating-ssl-certificates)
 * [ZeroAPI](zeroapi.md)
 > [Getting Started](zeroapi.md?id=getting-started)
 > [Creating Commands](zeroapi.md?id=creating-commands)
