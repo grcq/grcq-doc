@@ -76,6 +76,13 @@ php bin\console db:setup
 php bin\console user:create
 </pre>
 
+### Allow Sudo to restart Nginx
+
+<pre style="background-color: #000000; color: white; border-radius: 10px; padding: 20px;">
+    sudo visudo
+</pre>
+
+Edit (or add) the line for `www-data` to be `www-data ALL=NOPASSWD: /usr/sbin/nginx, NOPASSWD: /usr/bin/certbot`
 
 > ## Webserver Configuration
 
