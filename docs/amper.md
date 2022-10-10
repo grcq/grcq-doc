@@ -47,7 +47,7 @@ Now we have created a folder for the files.<br>
 All we need to do it download the files.
 
 <pre style="background-color: #000000; color: white; border-radius: 10px; padding: 20px;">
-curl -Lo amper.tar.gz https://github.com/grcq/Amper/archive/refs/tags/v1.0.0.tar.gz
+curl -Lo amper.tar.gz https://github.com/grcq/Amper/archive/refs/tags/v1.0.1.tar.gz
 tar -xzvf amper.tar.gz
 
 # To allow the websites to be uploaded.
